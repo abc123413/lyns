@@ -1,0 +1,7 @@
+services:
+  app:
+    image: ghcr.io/abc123413/creova:latest
+    container_name: creova
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
