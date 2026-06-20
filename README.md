@@ -41,6 +41,12 @@ npm run dev
 ```
 
 打开 http://localhost:3000，进入右上角配置填入 API Key 即可使用。
+##功能展示
+
+<img width="1915" height="1042" alt="屏幕截图 2026-06-20 173936" src="https://github.com/user-attachments/assets/2bc1b5fa-ee56-4f70-ada5-15cb2bdfbf20" />
+<img width="1878" height="990" alt="屏幕截图 2026-06-20 173905" src="https://github.com/user-attachments/assets/114aba1d-752c-47be-b949-b4bb92e95d58" />
+
+
 
 ## 开源协议
 
